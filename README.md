@@ -1,3 +1,3 @@
 # mts-traektoria-backend
-API доступен по адресу https://api.kapiteam.ru\n
-Посмотреть endpoint'ы можно по адресу https://api.kapiteam.ru/docs
+API доступен по адресу https://api.kapiteam.ru
+\nПосмотреть endpoint'ы можно по адресу https://api.kapiteam.ru/docs
